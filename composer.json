@@ -1,0 +1,18 @@
+{
+    "name": "lijieying/wechat",
+    "description": "微信小程序包",
+    "authors": [
+        {
+            "name": "JerryLi"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "JerryLi\\Wechat\\": "src/"
+        }
+    }
+}
