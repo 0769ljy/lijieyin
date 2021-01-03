@@ -6,7 +6,7 @@ namespace JerryLi\Wechat;
 
 class test
 {
-    public function test1(){
+    public static function test1(){
         return "hello world";
     }
 
