@@ -1,7 +1,7 @@
 <?php
 
 
-namespace JerryLi\Wechat;
+namespace lijieying\Wechat;
 
 
 class test
